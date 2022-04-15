@@ -1,3 +1,5 @@
+![Github Banner](https://github.com/WRWPhillips/WRWPhillips/blob/main/Will_Phillips%20(1).png?raw=true)
+
 ### Hi there, 👋 my name is Will Phillips and this is my GitHub.
 
 - 🔭 I’m currently working on a Rails backend that utilizes my pic2text utility.
