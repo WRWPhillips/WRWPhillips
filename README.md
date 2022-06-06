@@ -12,13 +12,13 @@
 - ⚡ Fun fact: I used to work in medicine and I've done CPR more times than any other software engineer you know.
 
 #### 🚀 Technical Skills 
-**Frontend**: React.js, Redux, Hooks, JavaScript, Styled Components, HTML, CSS, Axios, Context API, Yup, Wireframes, Rails, TypeScript
+**Frontend**: React.js, Redux, Hooks, JavaScript, Styled Components, HTML, CSS, Axios, AntDesign, Context API, Yup, Wireframes, Rails, TypeScript
 
 **Testing**: Jest, Cypress, React Testing Library
 
 **Backend**: Node.js, Express, SQL, Sqlite3, knex, Relational Databases, PostgresQL, Rails, Django
 
-**Additional Skills**: JWT, Git CLI, GitHub, Linux (I run Arch), Bash, Algorithms, Management, Writing, Project Management, Debugging, Team Leadership and Development
+**Additional Skills**: JWT, Git CLI, GitHub, Linux (I run Arch), Bash, Algorithms, Management, Writing, Project Management, Debugging, Team Leadership and Development, Ruby, GoLang, Image processing
 
 #### Where to Find Me 📍
 
